@@ -2,7 +2,7 @@
 layout: workshop      # DON'T CHANGE THIS.
 carpentry: "lc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc")
 venue: "George Mason University Libraries"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "George Mason University Libraries, 4400 University Dr, Fairfax, VA 22030"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "George Mason University Libraries, 1014 A & B Fenwick Library, 4400 University Dr, Fairfax, VA 22030"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "38.832139,-77.3093677"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
